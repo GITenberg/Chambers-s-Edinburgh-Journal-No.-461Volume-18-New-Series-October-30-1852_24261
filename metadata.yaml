@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5276
     wikipedia: http://en.wikipedia.org/wiki/Robert_Chambers_%28publisher_born_1802%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24261#Chambers-s-Edinburgh-Journal-No.-461Volume-18-New-Series-October-30-1852
 gutenberg_bookshelf: Chambers's Edinburgh Journal
 gutenberg_issued: '2008-01-12'
 gutenberg_type: Text
